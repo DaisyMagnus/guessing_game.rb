@@ -1,6 +1,6 @@
 
 
-guesss = rand(1..101).to_i
+gue = rand(1..101).to_i
 
 puts "Please guess a number between 1 and 100."
 counter = 0
