@@ -19,9 +19,7 @@ puts "What's the dealers card?"
 # #inject(0) { |sum, element| sum + element }
 def check_total_of_card(array)
       puts array.inject(0) { |sum, element| sum + element }
-
-    #  reduce(:+)
-
+      #  reduce(:+)
 end
 
 
